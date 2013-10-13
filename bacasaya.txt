@@ -1,0 +1,201 @@
+E:\Lab AI>python random_s.py
+solusi => n.hanzd!wirhr,i,vajawwmjpjat.l   fitnes=> 5
+solusi => n.hanzd!wirhr,i,vajawwmjpjat.l   fitnes=> 5
+solusi => n.hanzd!wirhr,i,vajawwmjpaat.l   fitnes=> 5
+solusi => nhhanzd!wirhr,i,vajawwmjpadr.d   fitnes=> 4
+solusi => nhhanzd!wirhr,i,vajawwmjpadr.d   fitnes=> 4
+solusi => nhhanzd!wirhr,i,vejawwmjpadr.d   fitnes=> 4
+solusi => nhhanzd!wirhr,i,vejawwmjpadr.d   fitnes=> 4
+solusi => nhhanzd!wirhr i,vejawwmjpadr.d   fitnes=> 4
+solusi => nhhanzd!wirhr i,vejawwmjpadr.d   fitnes=> 4
+solusi => nhhanzd!wirhr i,vejawwmjpadr.d   fitnes=> 4
+solusi => nhhanzd!wirhr i,vejawwmjpadr.d   fitnes=> 4
+solusi => nhhanzd!wirhr i,vejawwmjpadr.d!  fitnes=> 4
+solusi => nhhanzd!wirhr i,vejawwmjpadr.d!  fitnes=> 4
+solusi => nhhanzd!wirhr i,vejawwm padr.d!  fitnes=> 3
+solusi => nhhanzd!wirhr i,vejawwm padr.d!  fitnes=> 3
+solusi => nhhanzd!wirhr l,vejawwm padr.d!  fitnes=> 3
+solusi => nhhanzd!wirhr l,vejawam padr.d!  fitnes=> 3
+solusi => nhhanzd!wirhr l,vejawam padr.d!  fitnes=> 3
+solusi => nhhanzd!wirhr l,vejawam padr.d!  fitnes=> 3
+solusi => nhhanzd!wirhr l,vejrwam padr.d!  fitnes=> 3
+solusi => nhhanzd!wirhr l,vejrwam padr.d!  fitnes=> 3
+solusi => nhhanzd!airhr l,vejrwam padr.d!  fitnes=> 3
+solusi => nhhanzd!airhr l,vejrwam padr.d!  fitnes=> 3
+solusi => nhhanzd!airhr l,vejrwam padr.d!  fitnes=> 3
+solusi => ahhanzd!airhr l,vejrwam padr.d!  fitnes=> 2
+solusi => ahhanzd!airhr l,vejrwam padr.d!  fitnes=> 2
+solusi => ahhanzd!airhr l,vejrwam madr.d!  fitnes=> 2
+solusi => ahhanad!airhr l,vejrwam madrid!  fitnes=> 2
+solusi => ahhanad!airhr l,ve rwam madrid!  fitnes=> 1
+solusi => ahhanad!airhr l,ve rwam madrid!  fitnes=> 1
+solusi => ahhanad!aibhr l,ve rwam madrid!  fitnes=> 1
+solusi => ahhanad!aibhr l,ve rwam madrid!  fitnes=> 1
+solusi => ahhanad!aibhr l,ve rwam madrid!  fitnes=> 1
+solusi => ahhanad!aibhr l,ve rwam madrid!  fitnes=> 1
+solusi => ahhanan!aibhr l,ve rwam madrid!  fitnes=> 1
+solusi => ahhanan!aibhr l,ve rwam madrid!  fitnes=> 1
+solusi => ahhanan!aibhr l,ve rwam madrid!  fitnes=> 1
+solusi => ahhanan!aibhr l,ve rwam madrid!  fitnes=> 1
+solusi => ahhanan!aibhr love rwam madrid!  fitnes=> 4
+solusi => ahhanan!aibhr love rwam madrid!  fitnes=> 4
+solusi => ahhanan!aibhr love rwam madrid!  fitnes=> 4
+solusi => ahaanan!aibar love rwam madrid!  fitnes=> 3
+solusi => ahaanan!aibar love rwam madrid!  fitnes=> 3
+solusi => ahaanan!aibar love rwam madrid!  fitnes=> 3
+solusi => ahaanan!aibar love rwam madrid!  fitnes=> 3
+solusi => ahaanan!aibar love rwam madrid!  fitnes=> 3
+solusi => ahaanan!aibar love rwam madrid!  fitnes=> 3
+solusi => ahaanan!aibar love rwam madrid!  fitnes=> 3
+solusi => ahaanan!akbar love rwam madrid!  fitnes=> 2
+solusi => ahaanan!akbar love rwam madrid!  fitnes=> 2
+solusi => ahaanan!akbar love rwam madrid!  fitnes=> 2
+solusi => ahaanan!akbar love rwam madrid!  fitnes=> 2
+solusi => ahadnan!akbar love rwam madrid!  fitnes=> 2
+solusi => ahadnan!akbar love rwam madrid!  fitnes=> 2
+solusi => ahadnan!akbar love rwam madrid!  fitnes=> 2
+solusi => ahadnan!akbar love rwam madrid!  fitnes=> 2
+solusi => ahadnan!akbar love rwam madrid!  fitnes=> 2
+solusi => ahadnan!akbar love rwam madrid!  fitnes=> 2
+solusi => ahadnan!akbar love rwam madrid!  fitnes=> 2
+solusi => ahadnan!akbar love rwam madrid!  fitnes=> 2
+solusi => ahadnan!akbar love rwam madrid!  fitnes=> 2
+solusi => ahadnan!akbar love rwam madrid!  fitnes=> 2
+solusi => ahadnan!akbar love rwam madrid!  fitnes=> 2
+solusi => ahadnan!akbar love rwam madrid!  fitnes=> 2
+solusi => ahadnan!akbar love rwam madrid!  fitnes=> 2
+solusi => ahadnan!akbar love rwam madrid!  fitnes=> 2
+solusi => ahadnan!akbar love rwam madrid!  fitnes=> 2
+solusi => ahadnan!akbar love rwam madrid!  fitnes=> 2
+solusi => ahadnan!akbar love rwam madrid!  fitnes=> 2
+solusi => ahadnan!akbar love rwam madrid!  fitnes=> 2
+solusi => ahadnan!akbar love ream madrid!  fitnes=> 7
+solusi => ahadnan!akbar love ream madrid!  fitnes=> 7
+solusi => ahadnan!akbar love ream madrid!  fitnes=> 7
+solusi => ahadnan!akbar love ream madrid!  fitnes=> 7
+solusi => ahadnan!akbar love ream madrid!  fitnes=> 7
+solusi => ahadnan!akbar love ream madrid!  fitnes=> 7
+solusi => ahadnan!akbar love ream madrid!  fitnes=> 7
+solusi => ahadnan!akbar love ream madrid!  fitnes=> 7
+solusi => ahadnan!akbar love ream madrid!  fitnes=> 7
+solusi => ahadnan!akbar love ream madrid!  fitnes=> 7
+solusi => ahadnan!akbar love ream madrid!  fitnes=> 7
+solusi => ahadnan!akbar love ream madrid!  fitnes=> 7
+solusi => ahadnan!akbar love ream madrid!  fitnes=> 7
+solusi => ahadnan!akbar love ream madrid!  fitnes=> 7
+solusi => ahadnan!akbar love ream madrid!  fitnes=> 7
+solusi => ahadnan!akbar love ream madrid!  fitnes=> 7
+solusi => ahadnan!akbar love ream madrid!  fitnes=> 7
+solusi => ahadnan!akbar love ream madrid!  fitnes=> 7
+solusi => ahadian!akbar love ream madrid!  fitnes=> 2
+solusi => ahadian!akbar love ream madrid!  fitnes=> 2
+solusi => ahadian!akbar love ream madrid!  fitnes=> 2
+solusi => ahadian!akbar love ream madrid!  fitnes=> 2
+solusi => ahadian!akbar love ream madrid!  fitnes=> 2
+solusi => ahadian!akbar love ream madrid!  fitnes=> 2
+solusi => ahadian!akbar love ream madrid!  fitnes=> 2
+solusi => ahadian!akbar love ream madrid!  fitnes=> 2
+solusi => ahadian akbar love ream madrid!  fitnes=> 1
+solusi => ahadian akbar love ream madrid!  fitnes=> 1
+solusi => ahadian akbar love ream madrid!  fitnes=> 1
+solusi => ahadian akbar love ream madrid!  fitnes=> 1
+solusi => ahadian akbar love ream madrid!  fitnes=> 1
+solusi => ahadian akbar love ream madrid!  fitnes=> 1
+solusi => ahadian akbar love ream madrid!  fitnes=> 1
+solusi => ahadian akbar love ream madrid!  fitnes=> 1
+solusi => ahadian akbar love ream madrid!  fitnes=> 1
+solusi => ahadian akbar love ream madrid!  fitnes=> 1
+solusi => ahadian akbar love ream madrid!  fitnes=> 1
+solusi => ahadian akbar love ream madrid!  fitnes=> 1
+solusi => ahadian akbar love ream madrid!  fitnes=> 1
+solusi => ahadian akbar love ream madrid!  fitnes=> 1
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
+solusi => ahadian akbar love real madrid!  fitnes=> 0
